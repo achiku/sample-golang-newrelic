@@ -1,0 +1,6 @@
+gom "github.com/pilu/fresh"
+gom "github.com/rs/xhandler"
+gom "golang.org/x/net/context"
+gom "github.com/yvasiyarov/gorelic"
+gom "github.com/getsentry/raven-go"
+gom "github.com/go-zoo/bone"
